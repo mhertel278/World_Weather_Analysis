@@ -1,4 +1,4 @@
-City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Wind Speed,Weather Descritpion
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Wind Speed,Current Description
 0,Vaini,TO,-21.2,-175.2,75.2,94,11.5,moderate rain
 1,Nanortalik,GL,60.1432,-45.2371,32.88,89,8.66,overcast clouds
 2,Vannes,FR,47.8333,-2.5,50.0,100,13.8,mist
